@@ -1,7 +1,7 @@
 Hello, I'm Glory!
 🔧 Developer | Tech Enthusiast | Problem Solver
 
-I have a strong background in backend development, specializing in Node.js, Ruby on Rails, and Golang. With experience in Web3, blockchain, and smart contracts, I love exploring innovative solutions and building efficient, scalable systems.
+I have a background in backend development,  Node.js, Ruby on Rails, and Golang. With experience in Web3, blockchain, and smart contracts, I love exploring innovative solutions and building efficient, scalable systems.
 
 💼 Professional Experience
 
